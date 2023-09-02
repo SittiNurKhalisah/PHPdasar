@@ -37,7 +37,7 @@ $floatangka = (float) $strangka;
 $a = "saya";
 $b = "budi";
 
-echo $a $b;
+echo $a. $b;
 echo "saya"."budi";
 // echo "hallo 
 //     saya budi
