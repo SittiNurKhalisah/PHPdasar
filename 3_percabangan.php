@@ -52,6 +52,7 @@ if(isset($_POST["submit"])){
         </form>
     </div>
     <div class="result">
+        <h1>perhitungan nilai akhir</h1>
         <?php if (isset($_POST["submit"])) : ?>
             <table>
                 <tr>
@@ -66,6 +67,7 @@ if(isset($_POST["submit"])){
 
 
     </div>
+    
 </body>
 
 </html>
